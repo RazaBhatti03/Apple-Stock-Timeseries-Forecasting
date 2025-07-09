@@ -38,7 +38,6 @@ Accurately forecasting stock prices is crucial for investors, portfolio managers
 | pandas, numpy      | Data preprocessing & wrangling    |
 | matplotlib, seaborn| Data visualization                |
 | statsmodels        | ARIMA/SARIMA modeling             |
-| fbprophet          | Additive time series forecasting  |
 | sklearn.metrics    | Evaluation (MAE, RMSE, R²)        |
 
 ---
