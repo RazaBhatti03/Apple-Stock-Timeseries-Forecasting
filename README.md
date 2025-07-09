@@ -71,7 +71,7 @@ To ensure that the Apple stock time series data was ready for modeling and forec
 | **Random Walk Hypothesis Test**    | Checked if the stock followed a random walk (non-predictable pattern). |
 | **ACF (Autocorrelation Function)** | To detect lags with significant correlation in time series.            |
 | **PACF (Partial ACF)**             | To determine the order of AR terms in ARIMA models.                    |
-| **Smoothing Techniques** (e.g., EWMA) | Reduced noise and visualized the true signal.                          |
+| **Smoothing Techniques**           | Reduced noise and visualized the true signal.                          |
 
 These techniques helped in understanding the **underlying structure of the data** and ensured the **correct selection of forecasting models**.
 
@@ -92,7 +92,7 @@ These techniques helped in understanding the **underlying structure of the data*
 |-------------|--------------------------------|
 | ARIMA       | Captures trend + autocorrelation |
 | SARIMA      | Handles both trend and seasonality |
-| Facebook Prophet | Business-ready forecasts with trend/holiday components |
+
 
 ---
 
